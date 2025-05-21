@@ -48,7 +48,6 @@ Open my [Figma Dashboard](https://www.figma.com/design/GaAos6UwFgpEHDTRPQBTmB/UI
 - **BLoC** – State management using `flutter_bloc`
 - **Shared Preferences** – To store weather history locally
 - **SMTP (mailer)** – For email communication
-- **Firebase Cloud Functions** – For secure email sending on the web
 - **WeatherAPI** – To fetch weather data: [https://www.weatherapi.com/](https://www.weatherapi.com/)
 
 
